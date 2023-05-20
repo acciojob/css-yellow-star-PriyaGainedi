@@ -3,9 +3,9 @@
 {
     width: 0;
     height: 0;
-    border-right: 50px solid transparent;
-    border-bottom: 35px solid yellow;
-    border-left: 50px solid transparent;
+    border-right: 50px solid rgba(0, 0, 0, 0);
+    border-bottom: 100px solid rgb(255, 255, 0);
+    border-left: 50px solid rgba(0, 0, 0, 0);
     transform: rotate(35deg);
     position: relative;
 }
@@ -17,9 +17,9 @@
     left: -50px;
     width: 0;
     height: 0;
-    border-right: 50px solid transparent;
-    border-bottom: 35px solid yellow;
-    border-left: 50px solid transparent;
+    border-right: 50px solid rgba(0, 0, 0, 0);
+    border-bottom: 100px solid rgb(255, 255, 0);
+    border-left: 50px solid rgba(0, 0, 0, 0);
     transform: rotate(-70deg);
 }
 
@@ -31,9 +31,9 @@
     left: 0;
     width: 0;
     height: 0;
-    border-right: 50px solid transparent;
-    border-bottom: 35px solid yellow;
-    border-left: 50px solid transparent;
+    border-right: 50px solid rgba(0, 0, 0, 0);
+    border-bottom: 100px solid rgb(255, 255, 0);
+    border-left: 50px solid rgba(0, 0, 0, 0);
     transform: rotate(-35deg);
 }
     
